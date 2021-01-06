@@ -9,3 +9,5 @@ Our goal is to have an image on the front of the shirt that is created entirely 
 
 my code
 =======
+
+My idea for the useR! 2014 conference t-shirt was to show Cereal Guy looking at the new R logo, then spit when he looks at a word cloud of the useR! 2014 conference website text / details.
