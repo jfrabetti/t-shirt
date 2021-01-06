@@ -1,0 +1,7 @@
+setwd("/Users/jo/Documents/stuff/education/r/SDRUG")
+ls(0)
+ls()
+ls
+list.files()
+list.files()
+.DS_Store
