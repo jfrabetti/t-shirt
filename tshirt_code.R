@@ -11,7 +11,7 @@ toInstall <- c("stringr", "jpeg", "RCurl", "wordcloud", "tm")
 if(doInstall){install.packages(toInstall, repos = "http://cran.us.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)
 
-if(FALSE) {
+if(TRUE) {
   if (!requireNamespace("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
 
